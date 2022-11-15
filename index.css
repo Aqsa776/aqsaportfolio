@@ -329,3 +329,10 @@ footer p:nth-child(2){
     bottom: 57px;
     font-size: 18px;
 }
+
+.skills h5{
+    color: rgb(0, 0, 0);
+    font-size: 75px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
